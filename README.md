@@ -5,6 +5,7 @@ Smart Personal Finance Assistant powered by Gemini AI
 แอปพลิเคชันบันทึกและจัดการค่าใช้จ่ายอัจฉริยะ พัฒนาด้วยเทคโนโลยี Flutter และ Gemini AI (Multimodal) ที่สามารถวิเคราะห์รูปภาพใบเสร็จเพื่อแยกหมวดหมู่และบันทึกข้อมูลได้โดยอัตโนมัติ พร้อมระบบจัดการข้อมูลแบบแยกรายเดือน
 
 
+
 คุณสมบัติเด่น (Features)
 
 Multimodal AI Scanning: ใช้ Gemini 2.0 Flash ในการวิเคราะห์รูปภาพใบเสร็จโดยตรง (Image-to-JSON) ทำให้มีความแม่นยำสูงกว่าระบบ OCR ทั่วไป
